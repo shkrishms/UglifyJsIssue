@@ -1,0 +1,4185 @@
+._1MuFwj7H .ui.icon.input {
+  width: 400px;
+}
+p._2pV88U_T {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 700;
+}
+._1flo-0FF {
+  padding-bottom: 35px;
+}
+.hO8GudZb {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+._380se3Vn .ms-Persona-imageArea {
+  border-radius: 0;
+}
+._2Olu0Tgk {
+  position: relative;
+}
+._2Olu0Tgk ._1nAKnyd8 {
+  position: absolute;
+  left: 115px;
+  top: 0;
+  height: 100%;
+}
+._2Olu0Tgk ._1nAKnyd8 .item .content {
+  max-width: 400px;
+  overflow: hidden;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._2Olu0Tgk ._1nAKnyd8 ._22NYugk2.item {
+  padding: 0;
+}
+._2Olu0Tgk ._1nAKnyd8 ._22NYugk2.item .content {
+  padding-bottom: 2px;
+  font-size: 21px;
+  font-weight: 300;
+  color: #333333;
+}
+._2Olu0Tgk ._1nAKnyd8 ._1kMLc0R-.item {
+  padding: 0;
+  line-height: 15px;
+}
+._2Olu0Tgk ._1nAKnyd8 ._1kMLc0R-.item .content {
+  font-size: 14px;
+}
+._2Olu0Tgk ._1nAKnyd8 ._1MMdV9Am.item {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-size: 1em;
+  line-height: 12px;
+}
+.UN0BR_cV ._1MuFwj7H .ui.icon.input {
+  width: 100%;
+}
+.ui.table._1QBba3xS,
+.ui.table.sortable._1QBba3xS {
+  background: 0;
+  border: 0;
+}
+.ui.table._1QBba3xS td,
+.ui.table.sortable._1QBba3xS td,
+.ui.table._1QBba3xS tr,
+.ui.table.sortable._1QBba3xS tr {
+  font-size: 13px;
+  line-height: 16px;
+  color: #212121;
+  vertical-align: text-top;
+  text-align: left;
+  padding: 18px 6px;
+  border: 0;
+  word-break: break-all;
+}
+.ui.table._1QBba3xS ._3y-uTUVr,
+.ui.table.sortable._1QBba3xS ._3y-uTUVr {
+  background: 0;
+  border: 0;
+  border-top: 1px solid #969696 !important;
+  border-bottom: 1px solid #969696 !important;
+  font-size: 13px;
+  color: black;
+  text-transform: uppercase;
+  padding: 8px 6px;
+  text-align: left;
+  font-weight: normal;
+  white-space: nowrap;
+}
+.ui.table._1QBba3xS ._3y-uTUVr:hover,
+.ui.table.sortable._1QBba3xS ._3y-uTUVr:hover {
+  background: 0;
+}
+.ui.table._1QBba3xS tr:hover,
+.ui.table.sortable._1QBba3xS tr:hover {
+  color: #DDDDDD;
+}
+.hide-arrow::after {
+  visibility: hidden;
+}
+#_1F-X9tYq .item {
+  font-size: 14px;
+  color: black;
+  padding: .5em 1.16666667em;
+}
+#_1F-X9tYq .item:active,
+#_1F-X9tYq .item.active {
+  color: white;
+  background-color: #505050;
+}
+#_1F-X9tYq .item:hover {
+  color: white;
+  background-color: #969696;
+}
+#_1F-X9tYq .disabled.item {
+  color: #969696;
+}
+#_1F-X9tYq .disabled.item:hover {
+  color: #969696;
+}
+._3Jynz1EF {
+  font-size: 10px;
+  color: #969696;
+  margin-bottom: 6px;
+  float: right;
+  height: 20px;
+}
+._2dbR-uZE {
+  font-size: 10px;
+  color: #969696;
+  float: right;
+  height: 20px;
+}
+._3NbhkLEr {
+  padding-left: 0.5em;
+  font-size: 15px;
+  color: #0071BD;
+  cursor: pointer;
+}
+._3NbhkLEr:hover {
+  color: #EF3F0F !important;
+}
+._36aD-eTA {
+  padding-right: 1em;
+  display: inline-block;
+}
+._3oC60rWi {
+  font-size: 15px;
+  color: #0071BD;
+}
+.ms-Panel-main {
+  top: 50px !important;
+  border-left: 0;
+  border-right: 0;
+}
+.ms-Panel-content {
+  padding: 0 !important;
+  min-height: 100%;
+}
+.ms-Panel-closeIcon {
+  font-size: 18px;
+  color: black;
+}
+._18dPQPXx {
+  font-size: 21px;
+  color: black !important;
+}
+._1sjBZEWX {
+  padding: 1em 2em 2em;
+}
+.YEyBv8qW {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+._1SThhumU {
+  cursor: pointer;
+}
+._1dyhJNiV {
+  height: 50px;
+  border: none !important;
+  background-color: #FFB900 !important;
+}
+._1dyhJNiV .right.link.item {
+  background-color: #262626;
+  color: white;
+}
+._1dyhJNiV .right.link.item:hover {
+  background-color: #505050;
+  color: white;
+}
+._1dyhJNiV ._3TQuV5vm {
+  margin: 0 !important;
+}
+._1jgwzwyA {
+  display: flex;
+  justify-content: space-between;
+}
+.yuMGOOjD {
+  display: block;
+  float: right;
+  padding-left: 20px;
+  color: #A6A6A6;
+}
+.cx6aRD0c {
+  display: block;
+  float: left;
+  width: 100%;
+}
+._1k53EvPK {
+  vertical-align: text-bottom;
+}
+.HqTHC1VC {
+  visibility: hidden;
+}
+._3X7EozH2 .ms-Persona-imageArea {
+  border-radius: 0;
+}
+.ui.dropdown .menu > .header._1nrotHHv {
+  text-transform: inherit;
+}
+.ui.dropdown .menu > .header._1nrotHHv .ms-Persona-primaryText,
+.ui.dropdown .menu > .header._1nrotHHv .ms-Persona-secondaryText {
+  max-width: 200px;
+  overflow: hidden;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-left: 2px;
+  padding-bottom: 2px;
+}
+._1rR_Nfm_ {
+  font-size: 28px;
+  vertical-align: 16px;
+  letter-spacing: -0.025em;
+}
+.ms-Panel--smLeft {
+  left: 50px !important;
+}
+.ms-Panel--smLeft > .ms-Panel-main {
+  width: 500px !important;
+  background-color: #505050;
+}
+._1jrLS9uJ {
+  -webkit-animation: _2403oYxp 2s forwards;
+  animation: _2403oYxp 2s forwards;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+  color: green;
+  padding: 10px;
+  text-align: center;
+}
+._37hp5ffy {
+  width: 400px;
+}
+@-webkit-keyframes _2403oYxp {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+@keyframes _2403oYxp {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+#_3CZ8hKFX ._2JKQIqUc {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 0;
+  box-shadow: none;
+}
+#_3CZ8hKFX ._2JKQIqUc:hover {
+  background-color: #404040;
+}
+#_3CZ8hKFX .ySx2fR3B {
+  color: #F2F2F2;
+  font-size: large;
+  padding-left: 20px;
+}
+#_3CZ8hKFX ._3uAxgPZD {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 7px;
+}
+#_3CZ8hKFX ._3uAxgPZD .ms-Icon {
+  font-size: 18px;
+  color: #D2D2D2;
+}
+#_3CZ8hKFX ._30GeXPz- {
+  font-size: 22px;
+  font-weight: 300;
+  padding-left: 10px;
+  color: #D2D2D2;
+}
+#_3CZ8hKFX .cards {
+  margin: 0;
+}
+#_3CZ8hKFX .card > .content {
+  border-top: none;
+}
+#_3CZ8hKFX .card > .content .header {
+  font-size: 2.5em;
+  color: #eaeaea;
+}
+#_3CZ8hKFX .card > .content .description {
+  color: #eaeaea;
+  margin-top: 0;
+}
+#_3CZ8hKFX .card {
+  box-shadow: none;
+}
+#_3CZ8hKFX a.ui.card:hover {
+  background-color: #404040;
+}
+#_3CZ8hKFX ._1gWvBUnq {
+  width: 100px;
+  margin: 10px;
+  height: 100px;
+  background-color: rgba(255, 255, 255, 0.09);
+}
+#_3CZ8hKFX .HGd8rF9Q {
+  text-align: center;
+  margin-top: 15px;
+}
+#_3CZ8hKFX ._1Y9MC7RR {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.jxMloyK- {
+  color: gray;
+  font-size: 0.85em;
+}
+._1rtx7UoQ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._2prIghDf {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3fa7oQwc {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1e62kwW9 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+.m0rRgqHG {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3oGDIEGE {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._12fqYhaE {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3vcGPRIj {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1kqJM54m {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2EAJHKk3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+.ms-CommandBar._1mm10eXF {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  right: 0;
+  z-index: 1000;
+}
+.ms-CommandBar._1mm10eXF .ms-CommandBar-primaryCommands {
+  margin-left: 8px;
+}
+._3l7GY8DB {
+  padding: 8px 24px 0;
+  position: fixed;
+  top: 90px;
+  left: 50px;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  background-color: white;
+}
+._3l7GY8DB::after {
+  display: block;
+  content: "";
+  height: 40px;
+}
+._2c5dh5p5 .ms-CommandBarItem-commandText {
+  font-weight: 600;
+}
+._16axuKiE {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._2N5USEp- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3QtV1F3a {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.-zj7TqLh {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1IoeYe1c {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.SsANMdmb {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._20SA5_cC {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2G9LnaR0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._3ddVK2aN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.XQ0-Let- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2zKVkwRX {
+  margin-bottom: 24px;
+}
+._5Ew9AsOC {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+._2c6P63ai {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3cbz1AOp {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1t2UWdqr {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._17OUUbs3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._23-B6r9b {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.tJAAL6rl {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._25T_nKmI {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1XQa56xq {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1P_SLWZ2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.f_hYagD0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1Bb2dqeD {
+  margin-top: -5px;
+  list-style-type: none;
+  padding-left: 0;
+}
+.pyYgz0Qu {
+  display: inline-block;
+  color: #A80000;
+}
+.jaMmFY1j {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3u7YknuP {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.iQdelQmf {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3qMUnsfJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+.On47LFgz {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.eohnvB6z {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._15nWM7Ml {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1FUINvnW {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1iNJLvX4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.B994pr1U {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2odMkRwq {
+  vertical-align: middle;
+  cursor: pointer;
+  margin-left: 5px;
+}
+._2odMkRwq::before {
+  color: #0078D7;
+}
+._1h36u-Y- {
+  padding: 8px;
+  max-width: 500px;
+  height: 100%;
+}
+.ms-Checkbox._276k063q {
+  display: inline-block;
+  vertical-align: middle;
+}
+._1RIit0q5 .ms-DatePicker,
+._1RIit0q5 .ms-TextField {
+  margin-bottom: 0;
+}
+.stu_w5tm .ms-Label._2DNFptRw {
+  display: inline-block;
+  vertical-align: middle;
+}
+.stu_w5tm .ms-Spinner._2xJRWLqn {
+  margin-left: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+._2jtUL3oe {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.vxPBY50y {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._27S2gEjR {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.wDx9WCAK {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._2UdlGMKd {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._1InB850i {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2v1QFxXF {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2cg5kZ9_ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._36ye_4ug {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2suFAm6v {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+.WEeL5YKJ .ms-Dropdown-container .ms-Dropdown.is-disabled span.ms-Dropdown-title {
+  color: #333;
+}
+._3OiMXXCK {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._10W0qSkm {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.A5kwMXkM {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3AejUala {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._2j6jkqsM {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.F930-OGj {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.Ly-gStca {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._33G-fZ3N {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1SbGiV3H {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1VEnRL1L {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1a_Cp0fV {
+  display: inline-table;
+  margin-bottom: 8px;
+  width: 100%;
+}
+._1a_Cp0fV > * {
+  width: 100%;
+  display: table-cell;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+._1TIxtL4a {
+  display: none;
+}
+._3DlMamZq {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1XV3GWJx {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2Nw5f8YJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._15hkN6AY {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3N3HAAC3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3N-Nh01v {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3x6Ae34Y {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._19POYEz8 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1dH24BZ- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.WbVtcVVR {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+.lzNkotZd .ms-Panel-contentInner .ms-Panel-header {
+  margin: 0;
+  padding: 0 16px;
+  margin-bottom: 32px;
+}
+.lzNkotZd .ms-Panel-contentInner .ms-Panel-header .ms-Panel-headerText {
+  font-size: 32px;
+}
+.lzNkotZd .ms-Panel-contentInner .ms-Panel-content {
+  min-height: 0;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.lzNkotZd._1g52Wavg .ms-Panel-contentInner .ms-Panel-content {
+  margin-bottom: 129px;
+}
+.lzNkotZd ._3m5NoXdQ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+  padding: 0 16px;
+  margin-bottom: 24px;
+}
+.lzNkotZd ._3m5NoXdQ .ms-Spinner {
+  position: relative;
+  top: -2px;
+  margin-left: 16px;
+}
+.lzNkotZd ._3m5NoXdQ,
+.lzNkotZd ._3m5NoXdQ .ms-Spinner {
+  display: inline-block;
+  vertical-align: middle;
+}
+.lzNkotZd ._1V5nR8fa {
+  padding: 0 16px;
+}
+.lzNkotZd .ORZBghat {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 16px 16px 80px;
+  background-color: white;
+  border-top: 1px solid #F4F4F4;
+}
+.lzNkotZd .ORZBghat .ms-Button + .ms-Button {
+  margin-left: 16px;
+}
+.lzNkotZd .-tzT7TyH {
+  margin-top: 24px;
+}
+.lzNkotZd .-tzT7TyH .ms-Button + .ms-Button {
+  margin-left: 16px;
+}
+._21uy2XG- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3BZrvYe8 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1G34SAVA {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3QSnnt4P {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1ElAeUsb {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._1Nap1UVA {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2AJmyuRe {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3uHBqd4M {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.BuxE2XnC {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.jVGQ6Xly {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1TrWrDdm .ms-Dialog-main {
+  min-width: 400px;
+  width: 400px;
+  max-width: 100%;
+}
+._2a2nBbMJ {
+  margin-bottom: 8px;
+}
+.BsFdgMuC {
+  display: inline-table;
+  margin-bottom: 8px;
+  width: 100%;
+}
+.BsFdgMuC > * {
+  width: 100%;
+  display: table-cell;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+._1r-XK8M6 {
+  display: none;
+}
+._2PILHOuX {
+  font-size: 16px;
+  cursor: pointer;
+}
+._2PILHOuX:hover {
+  color: black;
+}
+.VXBo4YPu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3JCLGvy0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2D4o1L2r {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.jb01WZpQ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+.riv1KiCk {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2ZfQQBZm {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3S7P02ql {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3Cn86BX4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._2qd_yKCt {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2NFQxu8W {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2DpkGXcz {
+  margin-top: 8px;
+}
+.ms-Label._1JhDxmQ3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0;
+  margin-bottom: 16px;
+}
+._3ROQtxMs {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.bv3cL8pN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.y12LVVlN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1hmd7YVi {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._2NvafIVp {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.W6_VOQ2x {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2eSgRKFu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2bznTDr1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1F_IuBU6 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1vZM2y5J {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1QMJQG0l .col1Of2 {
+  padding-right: 16px;
+}
+._1QMJQG0l .col2Of2 {
+  padding-left: 16px;
+}
+._3IzJ-ENO {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3Xp5_-Qw {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2tbXlh8E {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1BFK94Rh {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1u2LM03T {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._1O7w1eVA {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.i82oBRg8 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1cJnF90v {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._3zknjcsO {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1cLJmyPU {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2wL3UKM8 {
+  margin-top: 8px;
+  margin-bottom: 12px;
+  background-color: #EAEAEA;
+  display: block;
+  border: 0;
+  height: 1px;
+}
+._1xCA7kAV {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._14bMx9Eh {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.QxFffk3V {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._21d03Xsu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._289__Ti4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2mquVMjI {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2NYNiS5x {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1gb8zYbt {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1kqkM0-6 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.F0ZeneL- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3hkjiMt7 {
+  margin-bottom: 32px;
+}
+._1N_tXczL > * {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+._1N_tXczL > * + * {
+  margin-left: 8px;
+}
+._2RFkS6iN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+  font-weight: 300;
+}
+._12-wdNT2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._35op973c {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1pplp0yk {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1es7ww_u {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3VIqO2z_ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.uu5fXlEc {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._23dh8R0v {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.WEfO1q3d {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._32bV8_mN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.N6pWz1I1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3SXe6_yk {
+  margin-bottom: 8px;
+}
+._3ETwaefd {
+  margin-bottom: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+._2r_yhRMs {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.IYWVscJ7 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 16px;
+}
+._1oM-jGH8 {
+  margin: 8px 0;
+}
+.LpbIWO0s {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._364kEu1V {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._25zzg4IB {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._13BLfKzR {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3Uh93ezV {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.XtwnF83y {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._1RG3XDa3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3MZKo1PX {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._37I2-sfd {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._3F6S8xZZ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._20ZBws2D {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  position: relative;
+  margin-left: 32px;
+}
+._20ZBws2D ._235c5XPw {
+  position: relative;
+  border-left: 1px solid #EAEAEA;
+}
+.ms-Button._31l9sLrK {
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+}
+._3Rjk0nsp > ._2_Z-xwQ6 {
+  background-color: #F4F4F4;
+}
+._4ouSB0Wv > ._2_Z-xwQ6 {
+  background-color: #EAEAEA;
+}
+._2_Z-xwQ6 {
+  position: relative;
+  padding-left: 32px;
+}
+.FIviloB4 > ._2_Z-xwQ6 > .op1qeYdT::before {
+  background-color: #0078D7;
+}
+.op1qeYdT {
+  display: inline-block;
+  vertical-align: middle;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  padding-left: 10px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  position: relative;
+  cursor: pointer;
+}
+.op1qeYdT::before {
+  content: "";
+  background-color: transparent;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  display: block;
+}
+.op1qeYdT:hover::before {
+  background-color: #B3D6F2;
+}
+.iup7m5xq::before {
+  content: " - ";
+}
+._3yYPgWNH {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1tS-uv3T {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2aK5qwKL {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._8sGiNyVn {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._17Ufc5rW {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._53dWDjLI {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._1xTapfrM {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1lDUNzRN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._3hGRjYTW {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._37lLHn2R {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+.U9OtzqcK {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+._1vWKQCUX {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1nsQac0n {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1fTdbWFe {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._2c6ZbhQD {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1l64I_5_ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3ErZaWVF {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.AthZG9W4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2kRiksNF {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.mml3Yetb {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1ChP3P1D {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+.ZIKeqzqF {
+  margin-top: 8px;
+}
+.ms-Label._3fqnmwjv {
+  padding: 0;
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+._7jFa3zk7 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.om3TbYs2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1Skignyr {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.-LeOaKlM {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1_81EzGU {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3T11S8hh {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2TCpAN1y {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.Kqzomr2p {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._2rxu8c2q {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1eHiwFlj {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1x7237i0 .ms-TextField.ms-TextField--multiline textarea {
+  height: 250px;
+}
+._3jgSny0a {
+  margin-top: 24px;
+}
+._2I0K5xeg {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.opTUCaoJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2HB-yHoy {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.EwkkOLKE {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._2JDVjjZj {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.p1pTbM7d {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3qrZuhBH {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3Brm3y4l {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1eZXEbtx {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.vZqWAdC0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2kzyLt1Q {
+  margin-top: 80px;
+  padding-top: 24px;
+  border-top: 1px solid #EAEAEA;
+}
+._1RUgPoGJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.jRIM4xon {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.WxvECmkY {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.o6x4xMIj {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3khgTufL {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3Xw8oYYv {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2B0UvveJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1uM-aVt- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._3zUYsjch {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.K3aXkHI1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2thf-Igl {
+  margin-bottom: 32px;
+}
+._2thf-Igl .t5X1prJ2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+  font-weight: 400;
+}
+.pJnUApzP {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._t7Vd13M {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.K7XpilBf {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1REIYqTd {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._2It-AsVF {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3lIwfdMl {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3f7XUaWO {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._6LFNDHEA {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._326juTQU {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._355xW4P5 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3UGg86vQ .ms-Pivot.ms-Pivot--large {
+  margin-bottom: 32px;
+}
+._3UGg86vQ .ms-Pivot.ms-Pivot--large .ms-Button {
+  height: 44.8px;
+}
+._3UGg86vQ .ms-Pivot.ms-Pivot--large .ms-Pivot-text {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+  line-height: 44.8px;
+}
+.mqxmsalF {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3QwTUlSP {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3T0800LE {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.k_AxcDVF {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._27L3l2BK {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._9aF-zbJ4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.DFjnr2eN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2yMdSD-d {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._2UI-Quo2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._3ao8JxtA {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3N-AjbLe {
+  padding: 16px 0;
+}
+._3N-AjbLe p {
+  white-space: pre-wrap;
+  margin: 0;
+  padding: 16px;
+  background-color: #F4F4F4;
+  word-wrap: break-word;
+}
+.deapUbqM {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._2w3lWCga {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3QN26kv1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._2KD5tlNo {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+.FGKrr4SN {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2iVXLPpX {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3f6mAl1D {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1Un6gdrR {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._4-IgqUdG {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._35AJD9P1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3xh3arcs {
+  height: 32px;
+}
+._1aMQtm4Z {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1tsB2Lzu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+.CGva1vt2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+.GwVqRCr0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._24QTXNjL {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3wh3oAZ6 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._1cRWjLWW {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1HcfDby3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1vPTGfXV {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1RiGg9sI {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3MHdWDR4 {
+  margin-bottom: 16px;
+}
+._1JlX0N0C {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1739oF0w {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1suNPAOx {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1DeotgUe {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._2G2hQ0SO {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._1471uYgs {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3T6KSFG3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1P-kT3tQ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._3ngfmX7d {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.Uc3W0SNl {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3AlRYEWK {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 24px;
+  margin-top: 16px;
+}
+._3Byb7NJ5 {
+  display: inline-block;
+  line-height: 1;
+}
+._3Byb7NJ5 + ._3Byb7NJ5 {
+  padding-left: 32px;
+  position: relative;
+}
+._3Byb7NJ5 + ._3Byb7NJ5::before {
+  font-family: "FabricMDL2Icons";
+  font-style: normal;
+  font-weight: 400;
+  content: "\E76C";
+  position: absolute;
+  left: 0;
+  font-size: 16px;
+  margin-left: 8px;
+  top: calc(50% + 2px);
+  transform: translateY(-50%);
+}
+._1m2OlE-S {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._12TE0_XO {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1ZP6qlWd {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3dh6bpyZ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3ojtNQar {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.zEamO-u0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._7ZBZ0gTJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3TBW1_t9 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.GpRK51E3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.kWvNBhLG {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2yr9e0j6 {
+  margin-bottom: 32px;
+  margin-top: 16px;
+  width: 100%;
+}
+._19VrtwCS,
+.zI6gsGmn,
+.kgAu-Cfc {
+  display: inline-block;
+  vertical-align: middle;
+}
+.zI6gsGmn {
+  margin: 0;
+}
+h1._19VrtwCS {
+  margin: 0;
+  line-height: 1;
+}
+.kgAu-Cfc {
+  margin-left: 8px;
+}
+._3vHDxfaV {
+  float: right;
+}
+._31-ehijK {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1ryYJ3_H {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3D9M3J7C {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3T87zKAJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1p76hQGU {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2_CVwVtu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.xxn9-bX7 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2B1F_6mI {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.IOlyKrYJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2MTixwff {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3Q-OZsSw {
+  list-style-type: none;
+  padding: 0;
+  height: 250px;
+  overflow-x: none;
+  overflow-y: auto;
+}
+.w7EiL3ry {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 5px;
+  cursor: pointer;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.w7EiL3ry:hover {
+  background-color: #C8C8C8;
+}
+._1r0mlEVt {
+  background-color: #C8C8C8;
+}
+.oXqGw4s4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+._2iENx_5o {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._1tHlDpDs {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3YPJf9Z4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._LmeKWuu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+.G-Wdxi8M {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2A26s9pB {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._43-HM4gm {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3WUA1OwB {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._2hpEykwy {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.kwCh6I8n {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2XkcBVR_ {
+  position: relative;
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 16px;
+}
+._2XkcBVR_ + ._2XkcBVR_ {
+  padding-right: 0;
+  padding-left: 16px;
+}
+._2XkcBVR_ + ._2XkcBVR_::before {
+  display: block;
+  content: "\E8AB";
+  font-family: "FabricMDL2Icons";
+  position: absolute;
+  top: 50%;
+  left: -6px;
+}
+.z1ZtFfFu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._29jFemOh {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2S1OTaz5 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3zEz2vz8 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+.SkfYFHpC {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2DmTX1kQ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3l1LGZbE {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3-BL5yZf {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._315fmHn6 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._3oeQee2B {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3OPNnSMO {
+  margin-bottom: 16px;
+}
+._2biakOcZ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3jsNrdQS {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3q2WHKTx {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3J7L2mjO {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3lVMz6dx {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3IswwWow {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.cFOKpBpz {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.HjjO7mZW {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.Ay9R5LXX {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2ye9uLC2 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._2mOLS0W7 {
+  margin-top: 16px;
+}
+p._2KhBTUqu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+  font-weight: 400;
+  line-height: 1.4;
+  margin-bottom: 16px;
+}
+.dFNenlgf {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.iBu1IV9r {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2pmW8zP0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._3FCybIOs {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._22OQnx9R {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._1z8t3FJz {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.b3W2yfwh {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._16mOmsIu {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._2aDdJ-ul {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._155R2Nw1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1gbcLHEW {
+  width: 100%;
+  display: inline-table;
+}
+.s1lrZPIS {
+  display: table-cell;
+  vertical-align: middle;
+}
+._168Tj-Au {
+  width: 99%;
+}
+._2jYrcC8Q {
+  width: 1%;
+}
+.ms-Label.BADBO56c {
+  padding-right: 5px;
+}
+.INaW0Njk {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._3Bai6UQt {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3VJBnJ39 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1z8neCr9 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1Hep6kRS {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._2RFRiC46 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._1NcGiljk {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._2JWCG4EY {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._2HE046NP {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2rDYeujd {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1gEoTe4c {
+  background-color: #E81123;
+  color: white;
+  height: 24px;
+  width: 24px;
+  line-height: 24px;
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 50%;
+  text-align: center;
+}
+._1gEoTe4c._1Q0YFW5A {
+  background-color: #107C10;
+}
+._2ZWKZYvc {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.JP4_o8No {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._1JFjI-Il {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1T3B1YD3 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._3jk_URG_ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.uQa6qwrt {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._3lA74HDA {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._3zUy6Cme {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1IImcl8V {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._2Sv1paYj {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._1js0ayV_ .ms-DetailsHeader-cellWrapper .ms-DetailsHeader-cell,
+._1js0ayV_ .ms-DetailsRow-fields .ms-DetailsHeader-cell,
+._1js0ayV_ .ms-DetailsHeader-cellWrapper .ms-DetailsRow-cell,
+._1js0ayV_ .ms-DetailsRow-fields .ms-DetailsRow-cell {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._1js0ayV_ .ms-DetailsHeader-cellWrapper .ms-DetailsRow-cell,
+._1js0ayV_ .ms-DetailsRow-fields .ms-DetailsRow-cell {
+  line-height: 24px;
+}
+._2nvN-hll + ._2nvN-hll {
+  padding-left: 16px;
+}
+.KksaeWde {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+.KksaeWde ._3qBolICM {
+  min-width: 250px;
+}
+.KksaeWde .ms-TextField,
+.KksaeWde .ms-DatePicker {
+  margin-bottom: 0;
+}
+.KksaeWde .ms-Pivot button.ms-Pivot-link {
+  height: 32px;
+  line-height: 32px;
+}
+._1T17tCGg {
+  color: #E81123;
+}
+._2YuekcSX {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+._2wqyD_bz {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._3Fd-Z8wc {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._1WtJPu2n {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._1m1Za8oQ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+._3Tz1NymJ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._1eKnqN54 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1MeScOeV {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._1XwRjz5b {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._1t2kacEo {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+p._1WZscBN_,
+p._39bU_M7D {
+  margin: 13px 0 8px;
+}
+._1WZscBN_ {
+  padding: 8px;
+  background-color: #F4F4F4;
+  white-space: pre-wrap;
+}
+._3VlIS7UO {
+  margin-top: 8px;
+}
+._3EP73pC6 {
+  margin-bottom: 8px;
+}
+._3JvLhriS {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 42px;
+  font-weight: 100;
+}
+.ZisGv_JZ {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+}
+._2pNVcez0 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+._2wYLHm49 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+}
+._17Ai8Kn1 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.ikThVCkn {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+._2OflET2B {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+._1d-4gkL4 {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+._3_sxxgo- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+._3se4FND- {
+  font-family: Segoe UI WestEuropean, Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+}
+._3u7a2K_f {
+  margin-bottom: 24px;
+}
+._3tp3Uz5r {
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: absolute;
+  top: 50px !important;
+  right: 0;
+  bottom: 0;
+  left: 50px !important;
+}
+._3tp3Uz5r ._1qnBBMou {
+  padding: 10px 50px 0 10px;
+  min-height: 100%;
+}
+._3tp3Uz5r ._1qnBBMou .introjs-overlay,
+._3tp3Uz5r ._1qnBBMou .introjs-helperLayer,
+._3tp3Uz5r ._1qnBBMou .introjs-tooltipReferenceLayer {
+  margin-top: -50px;
+  margin-left: -50px;
+}
+._3tp3Uz5r ._1qnBBMou .AzK8v8RN {
+  padding-left: 10px;
+}
+._2NfpsHmy {
+  padding-bottom: 20px;
+}
+.row._1y4hQj1p div {
+  margin-right: 1rem;
+}
+._31ewyWHP {
+  line-height: 62px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: right;
+}
+._2-OVLfBH ._1rUfwwxo {
+  opacity: 0.25;
+}
+.ui.grid._3CC8q78c {
+  margin-bottom: 1rem;
+}
+.ui.form._1U4zUYUo label {
+  font-size: 14px;
+}
+.ui.form._1U4zUYUo ._1aAaZG9r {
+  width: 100%;
+}
+.ui.form._1U4zUYUo ._1aAaZG9r ._1XTbDNl6 {
+  padding: 0;
+}
+.ui.form._1U4zUYUo .XUAZBM_5 {
+  width: 100%;
+}
+.ui.form._1U4zUYUo ._1hZW143J {
+  width: 100%;
+}
+._3-5MszIw {
+  font-size: 15px;
+  margin-bottom: -0.8em;
+}
+._3-5MszIw ._2_udO-SL {
+  margin-right: 3em;
+  font-size: 15px;
+}
+._3-5MszIw label {
+  font-size: 15px;
+  font-weight: 500;
+  margin-right: 1em;
+}
+._1skz_hj9 label {
+  font-size: 15px;
+  font-weight: 500;
+  margin-right: 1em;
+}
+._1skz_hj9 label span {
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 0.3em;
+  margin-right: 2em;
+}
+._9iu75gYs ._2296U9Ea {
+  margin-left: 120px;
+}
+._9iu75gYs label {
+  font-weight: normal;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+  font-size: 17px;
+}
+.ui.grid > .row._2msuaafc {
+  padding: 0;
+}
+.ui.secondary.pointing.menu._2qe8xZIg {
+  margin-bottom: 0;
+}
+.ui.secondary.pointing.menu._2qe8xZIg .item {
+  padding-top: 0.6667em;
+  padding-bottom: 0.6667em;
+  padding-right: 4em;
+}
+._2WbHskkw label {
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  padding-top: 15px;
+  padding-left: 25px;
+  margin-right: 15px;
+  font-size: 14px;
+  color: #212121;
+}
+._2WbHskkw label > span {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 1px;
+  background-color: #DDD;
+  color: rgba(0, 0, 0, 0);
+  text-align: center;
+}
+._2WbHskkw input[type="radio"],
+._2WbHskkw input[type="checkbox"] {
+  display: none;
+}
+._2WbHskkw input[type="radio"] + label > span {
+  border-radius: 8px;
+  border: solid 1px #F3F3F3;
+  background-color: transparent;
+  line-height: 16px;
+}
+._2WbHskkw input[type="radio"]:checked + label > span {
+  color: #F3F3F3;
+  text-align: center;
+  font-family: "FabricMDL2Icons";
+  font-size: 10px;
+  line-height: 14px;
+}
+._2WbHskkw input[type="checkbox"]:checked + label > span {
+  color: #F3F3F3;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 15px;
+}
+._3hITKJTV {
+  margin-top: 1em;
+  font-size: 15px;
+  line-height: 17px;
+  color: black;
+  text-transform: uppercase;
+}
+.t0JfU3fe {
+  padding-top: 2em;
+  font-size: 1.2em;
+}
+._1pL7PABa {
+  padding-top: 0.6em;
+  font-size: medium;
+}
+._3TwANmJ_ {
+  float: left;
+  margin-left: 10px;
+}
+._3TwANmJ_ ._2zoVeE8b {
+  margin-left: 0 !important;
+}
+._3TwANmJ_ ._249KHGep {
+  background: #107C10;
+  width: 60px;
+}
+._3TwANmJ_ ._3LHeoTLl {
+  background: #BAD80A;
+  width: 60px;
+}
+._3TwANmJ_ ._3Ra6WlBn {
+  background: #FFB900;
+  width: 60px;
+}
+._3TwANmJ_ ._3eEs8dfl {
+  background: darkorange;
+  width: 60px;
+}
+._3TwANmJ_ ._24J5pC1J {
+  background: #EA4300;
+  width: 60px;
+}
+._3TwANmJ_ ._1I_AxRug {
+  background: #E81123;
+  width: 60px;
+}
+._3zkYtkIN {
+  cursor: pointer;
+}
+.ui.table.sortable._15DpjL67 {
+  background: 0;
+  border: 0;
+}
+.ui.table.sortable._15DpjL67 td,
+.ui.table.sortable._15DpjL67 tr {
+  vertical-align: middle;
+  text-align: left;
+  padding: 10px 6px;
+  border: 0;
+}
+.ui.table.sortable._15DpjL67 thead th {
+  font-weight: normal;
+  background: 0;
+  border: 0;
+  text-align: left;
+  border-top: 1px solid #969696;
+  border-bottom: 1px solid #969696;
+  font-size: 13px;
+}
+.ui.table.sortable._15DpjL67 ._3zkYtkIN {
+  margin-bottom: 0;
+}
+.ui.table.FjAVgPl4 {
+  font-size: 10px;
+}
+.ui.table.FjAVgPl4 th {
+  padding-bottom: 0;
+  border: 0;
+  font-weight: normal;
+}
+.ui.table.FjAVgPl4 td {
+  padding-bottom: 0;
+  border: 0;
+}
+.ui.table._3onGcgYD th {
+  padding-bottom: 0;
+  border: 0;
+  font-weight: normal;
+}
+.ui.table._3onGcgYD td {
+  padding-bottom: 0;
+  border: 0;
+}
+._1IRSJkYY {
+  padding: 0 5px;
+}
+._3TE9DWtU td {
+  padding-bottom: 0 !important;
+  border: 0 !important;
+}
+._2GAmpu2n {
+  margin-bottom: 0;
+}
+.ui.grid .row._3BRHeydw {
+  padding-bottom: 0;
+}
+.ui.grid .row._5JiiXY22 {
+  padding-top: 6px;
+}
+._3uLfSIno span {
+  padding-right: 24px;
+  font-size: 14px;
+}
+#_3t2HDVwH {
+  margin: 10px 0 20px 5px;
+  background: #E5E4E2;
+  border: #E5E4E2;
+  font-size: medium;
+}
+#_3t2HDVwH .ui.header {
+  padding: 15px 30px 0 20px;
+  text-transform: uppercase;
+}
+#_3t2HDVwH .ui.scrolling.dropdown .menu {
+  max-height: 80vh;
+}
+#_3t2HDVwH ._24ttqHBP {
+  font-size: 14px;
+}
+._3jEOeVYH {
+  background: #F1F1F1;
+}
+._3jEOeVYH .ui.statistics {
+  margin-top: 0;
+}
+._3jEOeVYH .ui.statistics:last-child {
+  margin-bottom: -40px;
+}
+._3jEOeVYH .ui .statistic .value {
+  margin-left: 0;
+  font-weight: 500;
+  text-align: left;
+}
+._3jEOeVYH .ui .statistic .label {
+  text-transform: lowercase;
+  font-weight: 100;
+}
+._3jEOeVYH .ui.statistic > .value .icon,
+._3jEOeVYH .ui.statistics .statistic > .value .icon {
+  margin: 5px;
+}
+._3jEOeVYH .ui .list {
+  margin-left: 20px;
+  cursor: pointer;
+}
+._3jEOeVYH .ui .list > .label {
+  font-weight: 400;
+}
+._3jEOeVYH .ui.segment {
+  position: relative;
+  background: none;
+  padding: 1em;
+  border-radius: 0;
+  border: 0;
+  box-shadow: none;
+}
+._3jEOeVYH .ui.table tr:hover {
+  background-color: #E5E4E2;
+}
+._3jEOeVYH .ui.table tr td {
+  border-top: 1px solid #F1F1F1;
+}
+._3jEOeVYH .ui.menu {
+  border: none;
+  box-shadow: none;
+  margin: 0;
+  background: none;
+}
+._3jEOeVYH .ui.menu .item {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+._3jEOeVYH .ui.pagination.menu .active.item {
+  padding-top: 0;
+}
+._3jEOeVYH .VFCIidBP {
+  background: #F1F1F1;
+}
+._3jEOeVYH .VFCIidBP .ui.label {
+  background: transparent;
+}
+._3jEOeVYH ._3hsHpFQ2 {
+  margin-top: 3px;
+}
+._3jEOeVYH ._3hsHpFQ2 .ui.button {
+  background: transparent;
+}
+._3jEOeVYH ._3hsHpFQ2 .ui.breadcrumb a.section {
+  font-size: 12px;
+}
+#_3Q6_Wvhb,
+#_12cZKsmK {
+  width: 100%;
+  background: transparent;
+  margin: 1em 0;
+  border: none;
+  box-shadow: none;
+  text-align: center;
+  text-transform: uppercase;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+#_3Q6_Wvhb .ui.table td,
+#_12cZKsmK .ui.table td {
+  padding: .5em;
+  text-align: inherit;
+}
+#_3Q6_Wvhb .hide-arrow::after,
+#_12cZKsmK .hide-arrow::after {
+  visibility: hidden;
+}
+#_3Q6_Wvhb th,
+#_12cZKsmK th {
+  background: 0;
+  border: none;
+  border-bottom: 1px solid #969696;
+  padding: 8px 6px;
+  font-weight: normal;
+  white-space: nowrap;
+}
+#_3Q6_Wvhb td,
+#_12cZKsmK td {
+  border-top: none;
+}
+#_3Q6_Wvhb ._9PpJlpw0,
+#_12cZKsmK ._9PpJlpw0 {
+  color: green;
+}
+#_3Q6_Wvhb ._32S-9t1e,
+#_12cZKsmK ._32S-9t1e {
+  color: red;
+}
+#_3Q6_Wvhb ._28QBIfcV,
+#_12cZKsmK ._28QBIfcV {
+  color: orange;
+}
+#_3Q6_Wvhb .gfL3ZItr,
+#_12cZKsmK .gfL3ZItr {
+  font-weight: bold;
+  font-size: 14px;
+  padding-left: 3px;
+}
+.ui.pagination.menu .item {
+  min-width: 0;
+}
+._2rzi_tm4 {
+  position: fixed;
+  top: 50px;
+  z-index: 100;
+  width: 100vw;
+  margin-left: -20px;
+  opacity: 0.8;
+}
+._2rzi_tm4 .ui.menu {
+  background: gray;
+  border: gray;
+  font-size: medium;
+  color: #F0F0F0;
+}
+._2rzi_tm4 .ui.menu .header {
+  padding: 13px 20px 0 50px;
+}
+._2rzi_tm4 .ui.menu .item {
+  color: #F0F0F0;
+  display: block;
+  border: 1px solid white;
+  padding: 5px 15px;
+  margin: 10px 10px 10px 0;
+  min-width: 100px;
+  text-align: center;
+}
+._2rzi_tm4 .ui.menu .right .item {
+  border: 0;
+  min-width: 0;
+  margin-right: 50px;
+}
+._1XIkU8v_ {
+  word-break: break-all;
+}
+._1XIkU8v_ ._3Dgf-NUq {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+._1XIkU8v_ ._3Dgf-NUq p {
+  margin-bottom: 1px;
+}
+._1XIkU8v_ ._3Dgf-NUq p span:first-child {
+  font-weight: 600;
+}
+._1XIkU8v_ ._3NI-nCte {
+  white-space: pre-line;
+}
+._1XIkU8v_ ._3NI-nCte p {
+  margin-top: 10px;
+}
+._22XqGOJS {
+  margin-top: 1em;
+  cursor: pointer;
+}
+#_2jYPrjWR {
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+#_1xjKaMyc {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#_1xjKaMyc ._1VFVcOuM {
+  padding-top: 15px;
+}
+#_3p82ffW0 .item {
+  font-size: 6px;
+  color: black;
+  padding: .5em 0.5em;
+}
+#_3p82ffW0 .item:active,
+#_3p82ffW0 .item.active {
+  color: white;
+  background-color: #505050;
+}
+#_3p82ffW0 .item:hover {
+  color: white;
+  background-color: #969696;
+}
+#_3p82ffW0 .disabled.item {
+  color: #969696;
+}
+#_3p82ffW0 .disabled.item:hover {
+  color: #969696;
+}
+#_3ooUbFUn .breadcrumb {
+  padding: 0 3px;
+  vertical-align: baseline;
+}
+#_3ooUbFUn a {
+  font-size: 12px;
+}
+#_3ooUbFUn .bX2myLvs a,
+#_3ooUbFUn .bX2myLvs span {
+  padding: 0 3px;
+}
+._3MCoAIgw {
+  padding-left: 10px;
+}
+._1gCBnbvl {
+  overflow: auto;
+}
+.IEhB3gO- {
+  cursor: pointer;
+}
+._3Z3QPmZM {
+  height: 320px;
+  overflow: auto;
+}
+._1IeiYfc7 {
+  padding: 2em;
+}
+._1bqbY2TU {
+  overflow-wrap: break-word;
+}
+._2zlT_0AI {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  color: black;
+}
+._3M1gTM47 {
+  position: absolute;
+  top: -3em;
+  right: 0;
+}
+._2BD4ybCc {
+  position: relative;
+}
+._2AR79LwI {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.SEX5_pyR p {
+  margin: 0;
+}
+.SEX5_pyR span {
+  color: grey;
+  font-size: 11px;
+}
+#passiveLinksHeader {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  background: #E5E4E2;
+  border: #E5E4E2;
+  font-size: medium;
+}
+#passiveLinksHeader .ui.header {
+  padding: 15px 30px 15px 20px;
+  text-transform: uppercase;
+}
+#passiveLinksBody .ui .statistic .value {
+  margin-left: 0;
+  font-weight: 500;
+}
+#passiveLinksBody .ui .statistic .label {
+  text-transform: lowercase;
+  font-weight: 100;
+}
+#passiveLinksBody .ui.statistic > .value .icon,
+#passiveLinksBody .ui.statistics .statistic > .value .icon {
+  margin: 5px;
+}
+.headerValue .ui.header {
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 30px;
+  text-transform: uppercase;
+}
+#genevaLinks .ui .statistic .value {
+  color: gray;
+  text-align: left;
+  font-weight: 500;
+  margin-left: 100px;
+}
+#genevaLinks .ui .statistic .label {
+  text-transform: lowercase;
+  text-align: left;
+  font-weight: 200;
+  color: blue;
+  margin-left: 100px;
+}
+#genevaLinks .ui.statistic > .value .icon,
+#genevaLinks .ui.statistics .statistic > .value .icon {
+  margin: 0;
+}
+._3S4TKpH5 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 15px;
+  line-height: 17px;
+  word-wrap: break-word;
+}
+.bjyLWWnf {
+  word-wrap: break-word;
+}
+.TBuLQ1ml {
+  border: 1px solid #777777;
+  border-right: 0;
+  margin: 1em;
+}
+._26henR99 {
+  overflow: hidden;
+}
+._1GPpzeki {
+  color: #4C4F53;
+  margin: 12px 0 28px;
+  font-size: 24px;
+}
+._1GPpzeki i {
+  vertical-align: middle;
+}
+._1GPpzeki span {
+  margin-left: 5px;
+}
+._3UL7AyMX > div:not(:last-child) {
+  margin-bottom: 30px;
+}
+#_2huRxgN0 {
+  float: left;
+  width: 200px;
+  height: 100%;
+  background: linear-gradient(to right, #3A3633 93%, #2A2725 100%);
+  color: white;
+  border-width: 0;
+  overflow-y: auto;
+}
+#_1Ks0NW2- {
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: absolute;
+  top: 50px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+#_1Ks0NW2- #_1a5Ivdm8 {
+  padding: 10px 50px 0 10px;
+  min-height: 100%;
+}
+#_1Ks0NW2- #_1a5Ivdm8 .introjs-overlay,
+#_1Ks0NW2- #_1a5Ivdm8 .introjs-helperLayer,
+#_1Ks0NW2- #_1a5Ivdm8 .introjs-tooltipReferenceLayer {
+  margin-top: -50px;
+  margin-left: -50px;
+}
+#_1Ks0NW2- #_1a5Ivdm8 #_2LEKoo9u {
+  padding-left: 10px;
+}
+#_3CS9XDEA {
+  height: 50px;
+  border: none;
+  background: #FFB900;
+}
+#_3CS9XDEA #_2rpM9UHN {
+  font-size: 28px;
+  vertical-align: 16px;
+  letter-spacing: -0.025em;
+}
+#zc6HD7px {
+  background: #F1F1F1;
+}
+#zc6HD7px .ui .statistics {
+  margin-top: 0;
+}
+#zc6HD7px .ui .statistics:last-child {
+  margin-bottom: -40px;
+}
+#zc6HD7px .ui .statistics ._1two3Kpr {
+  margin-left: 0;
+  font-weight: 500;
+}
+#zc6HD7px .ui .statistics ._1AwPYT1x {
+  text-transform: lowercase;
+  font-weight: 100;
+}
+#zc6HD7px .ui .statistics > ._1two3Kpr ._24wxqBXu,
+#zc6HD7px .ui .statistics .vMxvRb5N > ._1two3Kpr ._24wxqBXu {
+  margin: 5px;
+}
+#zc6HD7px .ui .f6qKtJvY {
+  margin-left: 20px;
+  cursor: pointer;
+}
+#zc6HD7px .ui .f6qKtJvY > ._1AwPYT1x {
+  font-weight: 400;
+}
+#zc6HD7px .ui._1Z_Dwnam {
+  position: relative;
+  background: none;
+  margin: 1rem 0;
+  padding: 1em;
+  border-radius: 0;
+  border: 0;
+}
+#zc6HD7px .ui .table tr:hover {
+  background-color: #E5E4E2;
+}
+#zc6HD7px .ui .table tr td {
+  border-top: 1px solid #F1F1F1;
+}
+#zc6HD7px ._3mH3LwJG {
+  margin-top: 10px;
+}
+#v0M1Fmi9 .ui.menu,
+#_1PjAd0A4 .ui.menu {
+  border: none;
+  box-shadow: none;
+  margin: 0;
+  background: none;
+}
+#v0M1Fmi9 .ui.menu > .item,
+#_1PjAd0A4 .ui.menu > .item {
+  padding: 0 1em;
+}
+._2SXYo2ge ul {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+._2SXYo2ge ul li a {
+  line-height: normal;
+  font-size: 14px;
+  padding: 10px;
+  display: flex;
+  font-weight: 400;
+  text-decoration: none;
+  color: white;
+  list-style-type: none;
+}
+._2SXYo2ge ul li a i {
+  flex: 0 0 14px;
+  vertical-align: 0 !important;
+  font-size: 14px !important;
+}
+._2SXYo2ge ul li a div {
+  margin-left: 10px;
+  flex: 1 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._2SXYo2ge ul li a b {
+  margin-left: 10px;
+  float: right;
+}
+._2SXYo2ge ul li a:active {
+  background: #616161 !important;
+}
+._2SXYo2ge ul li a:hover {
+  background: #616161 !important;
+}
+._2SXYo2ge ul li._25FRQcAU a {
+  color: white !important;
+}
+._2SXYo2ge ul ul li a {
+  padding-left: 30px;
+}
+._2SXYo2ge ul ul li li a {
+  padding-left: 50px;
+}
+._2SXYo2ge ul ul li li li a {
+  padding-left: 70px;
+}
+._-3TvXA9l label {
+  font-weight: normal;
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: 17px;
+}
+.IruNJoCB {
+  position: fixed;
+  top: 50px;
+  z-index: 100;
+  width: 100vw;
+  margin-left: -10px;
+}
+.IruNJoCB .ui.form {
+  background: #969696;
+  border: gray;
+  font-size: small;
+  color: #F0F0F0;
+}
+.IruNJoCB .ui.form .header {
+  padding: 28px 20px 0 50px;
+  color: #F0F0F0;
+}
+.IruNJoCB .ui.form .fields {
+  margin-bottom: 0;
+}
+.IruNJoCB .ui.form .fields .field {
+  margin-bottom: 10px;
+}
+.IruNJoCB .ui.form .field > label {
+  color: white;
+}
+.IruNJoCB .ui.button {
+  margin-top: 25px;
+}
+.IruNJoCB .ui.menu {
+  opacity: 0.8;
+  background: gray;
+  border: gray;
+  font-size: medium;
+  color: #F0F0F0;
+}
+.IruNJoCB .ui.menu .header {
+  padding: 13px 20px 0 50px;
+}
+.IruNJoCB .ui.menu .item {
+  color: #F0F0F0;
+  display: block;
+  border: 1px solid white;
+  padding: 5px 15px;
+  margin: 10px 10px 10px 0;
+  min-width: 100px;
+  text-align: center;
+}
+.IruNJoCB .ui.menu .right .item {
+  border: 0;
+  min-width: 0;
+  margin-right: 50px;
+}
+._3EBy5zz_ {
+  margin-top: 80px;
+}
+.baGJ3Ue- {
+  width: 250px;
+}
+#w88GltQH {
+  background: #E5E4E2;
+  border: #E5E4E2;
+  font-size: medium;
+}
+#w88GltQH .ui.header {
+  padding: 15px 30px 0 20px;
+  text-transform: uppercase;
+}
+#w88GltQH .ui.scrolling.dropdown .menu {
+  max-height: 80vh;
+}
+#w88GltQH ._3NokU-r3 {
+  font-size: 14px;
+}
+.GKawFe3s {
+  overflow: auto;
+}
+.SYWPRdE4 {
+  height: 65vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+._3Bfo079f {
+  display: block;
+  font-size: 10px;
+  color: #969696;
+  float: right;
+  height: 20px;
+}
+._3eMorEHV {
+  max-width: 15vw;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+#fFOz45CU {
+  margin: 10px 0 20px 5px;
+  background: #E5E4E2;
+  border: #E5E4E2;
+  font-size: medium;
+}
+#fFOz45CU .ui.header {
+  padding: 15px 30px 0 20px;
+  text-transform: uppercase;
+}
+#fFOz45CU .ui.scrolling.dropdown .menu {
+  max-height: 80vh;
+}
+#fFOz45CU .ZX9nOj4l {
+  font-size: 14px;
+}
+#_3kboKUhC {
+  margin-top: 50px;
+  width: 50px;
+  background-color: #262626;
+}
+#_3kboKUhC .ui.simple.dropdown ._1F-Ujxww {
+  padding-top: 13px;
+}
+#_3kboKUhC .ui.simple.dropdown .menu {
+  background-color: #505050 !important;
+  top: 0 !important;
+  border: 0;
+  box-shadow: none;
+}
+#_3kboKUhC .ui.simple.dropdown .menu .item {
+  background-color: #505050 !important;
+  color: white !important;
+  font-size: 16px !important;
+  padding: 17px 20px !important;
+}
+#_3kboKUhC .ui.simple.dropdown .menu .item.active {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+}
+#_3kboKUhC .ui.simple.dropdown .menu .active.item span.text {
+  font-weight: 400;
+}
+#_3kboKUhC .ui.simple.dropdown .menu .header {
+  background-color: #505050 !important;
+  color: white !important;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+  height: 50px;
+  padding: 16px 20px 0;
+}
+#_3kboKUhC .ui.simple.dropdown .menu .item:hover {
+  background-color: #737373 !important;
+}
+#_3kboKUhC .item {
+  height: 50px;
+  padding: 13px 0;
+}
+#_3kboKUhC .item:before {
+  box-sizing: border-box;
+  height: 0;
+}
+#_3kboKUhC .item:hover {
+  background-color: #505050;
+}
+#_3kboKUhC .item:active {
+  background-color: #505050;
+}
+#_3kboKUhC .ui.menu .item {
+  padding: 12px;
+}
+#_3kboKUhC .label {
+  background-color: #505050;
+}
+#_3kboKUhC .dropdown i {
+  line-height: 1;
+  vertical-align: middle;
+  margin-top: -12px;
+}
+#_3kboKUhC ._1F-Ujxww {
+  font-size: 24px;
+  color: white;
+}
+._3uQqi623 {
+  padding-top: 5em;
+}
+._3uQqi623 .item {
+  font-size: 16px;
+}
+._36Esmrdp {
+  margin-top: 5em;
+  height: 400px;
+}
+._1wZpgAbz .results {
+  overflow: auto;
+  max-height: 300px;
+}
+._1wZpgAbz .results .result .content .description {
+  color: gray;
+}
+._rVm4krx {
+  border: 1px solid rgba(34, 36, 38, 0.1) !important;
+  padding: 3px 15px 5px;
+}
+.ui.menu._2nrmgQdC {
+  min-height: 30px !important;
+  padding-left: 0;
+  background-color: #1B1C1D !important;
+  max-height: 30px;
+  width: 100vw;
+}
+.ui.menu._2nrmgQdC .item.right {
+  margin-right: 6em;
+}
+.ui.menu._2nrmgQdC .item ._1SajUUSC {
+  background-color: #C6001D;
+}
+.ui.menu._2nrmgQdC .item .RtVIl_wa {
+  background-color: #177525;
+}
+.ui.menu._2nrmgQdC .item ._1J9IM9wD {
+  background-color: #465875;
+}
+.ui.menu._2nrmgQdC .item .ui.label {
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 6px !important;
+  margin-left: -35px !important;
+  height: 30px;
+  width: 120px;
+  text-transform: uppercase;
+}
+.ui.menu._2nrmgQdC .item .ui.secondary.button:hover {
+  background-color: #505050;
+}
+.ui.menu._2nrmgQdC .item .ui.secondary.button {
+  font-weight: normal;
+  text-transform: none;
+}
+.ui.menu._2nrmgQdC .item ._38jiZ2sc {
+  width: 20vw;
+  background-color: white;
+  color: black;
+  min-height: 30px;
+  max-height: 30px;
+  border: 1px solid black;
+  border-right: 0;
+}
+.ui.menu._2nrmgQdC .item .ui.secondary.button:hover._38jiZ2sc {
+  color: white;
+}
+.F9f6lR_T {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+._2kZORmOM {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+}
+.WkgmA2C7 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  display: block;
+}
+._2mawno5h {
+  white-space: nowrap;
+  overflow: hidden;
+}
+.cFw9twdZ {
+  background: rgba(255, 230, 0, 0.5);
+}
+#_3rEGOgg_ {
+  word-break: break-all;
+}
+#_3rEGOgg_ ._1CflH0-m td {
+  border-top: 1px solid rgba(34, 36, 38, 0.1) !important;
+  padding-bottom: 5px !important;
+}
+#_3rEGOgg_ td {
+  padding-bottom: 0 !important;
+  border: 0 !important;
+}
+#_3rEGOgg_ p {
+  margin-bottom: 1px !important;
+}
+#_3rEGOgg_ .bcNiziWi {
+  padding-left: 7px;
+}
+._3BG9B4TH {
+  white-space: pre-wrap;
+}
+.ui.secondary.pointing.menu._2mQEWnBe {
+  margin-bottom: 0;
+}
+.ui.secondary.pointing.menu._2mQEWnBe .item {
+  padding-top: 0.6667em;
+  padding-bottom: 0.6667em;
+  padding-right: 4em;
+}
+.ui.secondary.pointing.menu.uw7WkdmA .item {
+  text-transform: none;
+  padding-top: 0.6667em;
+  margin-right: 2em;
+  padding-right: 0;
+  padding-bottom: 0.3125em;
+  color: rgba(0, 0, 0, 0.95);
+}
+.ui.secondary.pointing.menu.uw7WkdmA a.active.item {
+  border-bottom: thick solid #0071BC;
+  padding-bottom: 3px;
+}
+.ui.secondary.pointing.menu.uw7WkdmA .item:hover {
+  color: rgba(0, 0, 0, 0.95);
+}
+._1O1VhYi6 {
+  padding-top: 15px;
+  height: 30px;
+}
+._2A9tWNMr {
+  margin-left: 6px;
+}
+._2YBUVoh3 {
+  margin-top: 1em;
+  font-size: 15px;
+  line-height: 17px;
+  color: black;
+  text-transform: uppercase;
+}
+._3AJG4Arh {
+  margin-top: 1em;
+  font-size: 12px;
+  line-height: 13px;
+  color: #333333;
+}
+._3Wu3J8Y0 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+._10W7Ujqy {
+  float: center;
+  border: 1px solid red;
+}
+.ui.table._2sMnKZB5 tr td {
+  padding-bottom: 0;
+  border: 0;
+}
+#_1tPWgjdf th {
+  padding-bottom: 0;
+  border: 0;
+  font-weight: normal;
+}
+#_1tPWgjdf td {
+  padding-bottom: 0;
+  border: 0;
+}
+#IZDXQ7my th {
+  padding-bottom: 0;
+  border: 0;
+  font-weight: normal;
+}
+#IZDXQ7my td {
+  padding-bottom: 0;
+  border: 0;
+}
+._2nIeq1pp {
+  font-size: 10px;
+  color: #969696;
+  margin-bottom: 6px;
+  float: left;
+  height: 20px;
+}
+._2J9pWfV- {
+  padding-left: 0.5em;
+  font-size: 15px;
+  color: #0071BD;
+  cursor: pointer;
+}
+._2J9pWfV-:hover {
+  color: #EF3F0F;
+}
+._2Nsmh6PP {
+  padding-right: 1em;
+  display: inline-block;
+}
+._3lf1kBMt {
+  font-size: 15px;
+  color: #0071BD;
+}
+._2eFlbmBR {
+  margin-top: 1em;
+  font-size: 15px;
+  line-height: 17px;
+  color: black;
+  text-transform: uppercase;
+}
+._3-CUknpa {
+  border-radius: 50%;
+  width: 8em;
+  height: 8em;
+  max-width: 8em;
+  display: inline-block;
+}
+._3-CUknpa._2YrQ3n97 {
+  background: radial-gradient(circle, rgba(255, 10, 10, 0.5), rgba(255, 20, 20, 0.2), rgba(255, 30, 30, 0.1));
+  cursor: pointer;
+}
+._5rRTO6tG {
+  font-size: 2.5em;
+  min-height: 1em;
+  margin-top: 1em;
+  text-align: center;
+  color: grey;
+}
+._5rRTO6tG._2YrQ3n97 {
+  color: red;
+}
+._3qF8zaQj {
+  font-size: 1.3em;
+  text-align: center;
+}
+._1TDpSPJ0 {
+  margin-top: 5em;
+}
+._38svVSVV {
+  color: green;
+}
+._2g-VKnul {
+  color: red;
+}
+.s_llE9IJ {
+  color: red;
+}
+._3EKUN7sK a {
+  font-size: 14px !important;
+}
+._3EKUN7sK .active.section {
+  font-size: 14px !important;
+}
+.KNEjFmpO {
+  float: left;
+  font-size: 14px;
+  color: #505050;
+}
+._2h5j96e1 {
+  font-size: 18px;
+  height: 30px;
+  vertical-align: middle;
+}
+._3p337xT5 {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  display: inline-block;
+  width: 100%;
+}
+.ui.grid > .row._2Jx-2URm {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+._2LkhW0Ek span {
+  padding-right: 24px;
+  font-size: 14px;
+}
+._2LkhW0Ek ._1oFdYph3 {
+  padding: 0;
+}
+.BmodcOqk .label {
+  width: 120px;
+}
+._2aaLel1D {
+  margin-bottom: 0;
+  color: black;
+}
+.ui.table._1oPqWJO5 {
+  padding-left: 10px;
+}
+.ui.table._1oPqWJO5 tbody tr td {
+  border: 0;
+}
+._1dWuAIRY {
+  font-size: 1.1em;
+}
+.ui.table._2PelzvET tbody tr td {
+  border: 0;
+  padding: 0.5em;
+}
+._1VQJHsO3 {
+  height: 360px;
+  overflow-y: auto;
+}
+.ui.form._2zziGPEx {
+  font-size: 1.1em;
+}
+#_2CxGOmFc {
+  font-size: 16px;
+}
+._13IpJ1UR {
+  font-size: 13px;
+}
+._3N4RAEfI {
+  padding-top: 60px;
+}
+.ui.form._9zl99J4g .fields .field label {
+  font-weight: 400;
+}
+.ui.form._9zl99J4g .fields label {
+  font-weight: 400;
+}
+.ui.fixed.selectable.table ._1zDeZtts {
+  text-align: center;
+  padding-left: 15px;
+}
+.Ca_csECv {
+  position: relative;
+  top: 3px;
+  right: 5px;
+}
+._1yK9dkr7 {
+  background-color: #DDDDDD;
+}
+.gWMMyZXy {
+  padding: 0 5px;
+}
+._3vlhBfJV {
+  height: 65vh;
+  overflow: auto;
+}
+@media only screen and (min-width: 1200px) and (max-width: 1920px) {
+  ._3vlhBfJV {
+    height: 70vh;
+  }
+}
+@media only screen and (min-width: 1920px) {
+  ._3vlhBfJV {
+    height: 75vh;
+  }
+}
+._7n5XrZPl {
+  padding-top: 10px;
+}
+._2NqwtnDW {
+  margin-bottom: 40px;
+}
+._1YM4uA2e {
+  min-height: 320px;
+}
+.B5gEnTsH {
+  font-size: 13px;
+}
+._3_EvZ00P,
+.ui.checkbox label {
+  font-size: 13px;
+}
+._1GeYTDJP,
+._1GeYTDJP:hover {
+  color: #212121;
+}
+._3VHBskBM {
+  padding: 0 10px;
+}
+._2gufat2W {
+  padding-right: 10px;
+  vertical-align: text-bottom;
+}
+.WRR9EA0P {
+  padding: 3px;
+}
+.WRR9EA0P:hover,
+._2CGOGdDq:hover {
+  cursor: pointer;
+}
+.KS7Q-ldJ {
+  padding-left: 10px;
+  vertical-align: text-bottom;
+}
+._2hIBul4K {
+  overflow: hidden;
+  height: 320px;
+}
+.k0xOkp45 {
+  min-width: 400px;
+}
+._2CGOGdDq {
+  font-size: 16px;
+  padding: 3px;
+}
+.cQG_XVKH {
+  padding-left: 40px;
+}
+._3ibwjiPV {
+  font-size: 16px;
+}
+._1ClCCGjF {
+  visibility: hidden;
+  padding-left: 8px;
+  padding-right: none;
+}
+._2W5kcMVQ:hover ._1ClCCGjF {
+  visibility: visible;
+}
+.TUBH0H7P {
+  overflow-x: auto;
+}
+.JBFQpxGP,
+._3N0Hp4bY {
+  vertical-align: text-bottom;
+}
+._3N0Hp4bY {
+  padding-left: 8px;
+}
+._2JIxz26V {
+  background-color: white;
+}
+._3oN1k-rp {
+  color: #B8B1B1;
+}
+._1gnJt_La {
+  background-color: #ECECEC;
+}
+._2MEUO6vX {
+  background-color: #756967;
+  color: white;
+}
+._3vGUz2H2 {
+  font-weight: bold;
+}
+.B930UrpV {
+  position: absolute;
+  top: 1px;
+  left: 5px;
+}
+._3wlAQw1f {
+  text-transform: uppercase;
+}
+.xzUJqO9c {
+  background-color: #DDDDDD;
+}
+._2mWfAJ_n {
+  cursor: pointer;
+}
+.row._3O0ev0Bl {
+  height: 65em;
+}
+.ui.grid ._1piuolgx {
+  margin-bottom: -55px;
+}
+.ui.grid ._35-HffuR {
+  margin: -0.96rem 0;
+}
+.ui.grid ._35-HffuR .column ._2JIxz26V:hover {
+  background-color: #DDDDDD;
+}
+.ui.grid ._35-HffuR .column ._1gnJt_La:hover {
+  background-color: #DDDDDD;
+}
+.ui.grid ._1A7C8RU0 {
+  padding-top: 25px;
+}
+._19ShglQ5 {
+  padding: 0 5px;
+}
+._1y-1o-DE {
+  cursor: default;
+}
+._2zV_nds4 {
+  padding-left: 10px;
+  vertical-align: bottom;
+}
+._1QZ7Ggwr:hover {
+  color: #DD6E00;
+  cursor: pointer;
+}
+._3aH8miS3 {
+  text-decoration: line-through;
+  color: red;
+}
+._1v-FjSIy {
+  background-color: #DDDDDD;
+}
+.ui.grid._32687dVz {
+  margin-bottom: -30px;
+}
+._1XRrwsyS {
+  padding-top: 10px;
+}
+._1j8Z631r {
+  padding-bottom: 5px;
+}
+._1z5EzGpu {
+  background: #DDDDDD;
+}
+.ui.grid._2ASXprMl {
+  display: none;
+}
+._2ASXprMl {
+  display: none;
+}
+.ui.form>.message.error._1poFW6Hq {
+  display: block;
+}
+.ui.form>.fields._2ASXprMl {
+  display: none;
+}
+._2ZO-sjRe:hover {
+  background: #DDDDDD;
+  cursor: pointer;
+}
+._2ZO-sjRe._3Y2ZN30L {
+  background: #DDDDDD;
+}
+.ui.relaxed.celled.grid>.row>.column._3BQPFMV_ {
+  background: #BFBFBF;
+}
+.ui.relaxed.celled.grid>.row>.column._28fanOqt {
+  background: linear-gradient(transparent 50%, #BFBFBF 50%);
+}
+.ui.relaxed.celled.grid>.row>.column._28fanOqt:hover {
+  background: linear-gradient(#DDDDDD 50%, #BFBFBF 50%);
+  cursor: pointer;
+}
+.ui.relaxed.celled.grid>.row>.column._28fanOqt._3Y2ZN30L {
+  background: linear-gradient(#DDDDDD 50%, #BFBFBF 50%);
+}
+.ui.relaxed.celled.grid>.row>.column.mBR4aDRf {
+  background: linear-gradient(#BFBFBF 50%, transparent 50%);
+}
+.ui.relaxed.celled.grid>.row>.column.mBR4aDRf:hover {
+  background: linear-gradient(#BFBFBF 50%, #DDDDDD 50%);
+  cursor: pointer;
+}
+.ui.relaxed.celled.grid>.row>.column.mBR4aDRf._3Y2ZN30L {
+  background: linear-gradient(#BFBFBF 50%, #DDDDDD 50%);
+}
+.ui.relaxed.celled.grid>.row>.column.Sx45Ovde {
+  font-size: 175%;
+  font-weight: bolder;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.ui.grid._1Meszzsc {
+  margin: 10px 0 20px 5px;
+  font-size: medium;
+}
+.ui.grid._1Meszzsc ._1X4-3mxH {
+  padding: 15px 30px 0 20px;
+  text-transform: uppercase;
+  font-size: x-large;
+}
+.ui.grid._1Meszzsc ._2YNi65az {
+  font-size: small;
+  padding-top: 6px;
+}
+.ui.button._2Jobf72l {
+  margin-bottom: 10px;
+}
+.ui.button._21Ek-pz8 {
+  margin-left: 10px;
+}
+.ui.form>.message.error.ZvWEsnbN {
+  display: block;
+}
+.ui.primary.button._2bAUopfS,
+.ui.grid._2bAUopfS {
+  margin-bottom: 5px;
+}
+.ui.table._1pierPaA {
+  word-break: break-all;
+}
+.ui.table._1pierPaA ._3BSveWHU td {
+  border-top: 1px solid rgba(34, 36, 38, 0.1);
+  padding-bottom: 5px;
+}
+.ui.table._1pierPaA td {
+  padding-bottom: 0;
+  border: 0;
+}
+.ui.table._1pierPaA p {
+  margin-bottom: 1px;
+}
+.vFuH3-cH {
+  float: left;
+}
+.qTOoO00x {
+  float: right;
+}
+._2aBlg1ai {
+  white-space: pre-wrap;
+}
+._2Q-o5TUi div {
+  padding-right: 20px;
+}
+.ui.table._14BHS06e {
+  word-break: break-all;
+}
+.ui.table._14BHS06e td {
+  padding-bottom: 5px;
+  border: 0;
+}
+._1p3C3HLw {
+  cursor: default;
+}
+.Qcca68VW {
+  cursor: pointer;
+}
+.Qcca68VW:hover {
+  color: #DD6E00;
+}
+._1fAAzOjS {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+._14LIsbD6 {
+  cursor: default;
+}
+
+/*# sourceMappingURL=ospapp.782d3ea5280ba9a8b7d8bb52870c6c71.css.map*/

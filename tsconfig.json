@@ -1,0 +1,33 @@
+﻿{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "dom",
+      "es2015",
+      "es2016"
+    ],
+    "jsx": "preserve",
+    "target": "es2016",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "outDir": "tmp",
+    "baseUrl": ".",
+    "paths": {
+      "react-linkify": [ "src/typings/react-linkify" ],
+      "intro.js": [ "src/typings/introjs" ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

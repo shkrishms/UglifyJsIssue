@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/.git": true,
+        "node_modules/": true,
+        "tmp/": true,
+        "dist/": true,
+        "ospapp.*": true,
+        "web*.config": true
+    },
+   
+    "json.format.enable": false,
+    "tsimporter.doubleQuotes": true,
+    "typescriptHero.resolver.insertSemicolons": true,
+    "typescriptHero.resolver.ignorePatterns": [
+        "react"
+    ],
+    "typescript.tsdk": "./node_modules/typescript/lib"
+}
