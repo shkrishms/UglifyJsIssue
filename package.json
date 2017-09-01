@@ -4,22 +4,13 @@
   "description": "Osp app package information",
   "main": "app.js",
   "scripts": {
-    "test": "jest",
-    "build:dev": "cross-env webpackConfig=dev AppSetting=dev gulp default",
-    "build:ppe": "cross-env webpackConfig=prod AppSetting=ppe gulp default ",
     "build:prod": "cross-env webpackConfig=prod AppSetting=prod gulp default",
     "start": "cross-env webpackConfig=dev AppSetting=dev webpack-dev-server --config ./config/webpack.dev.js",
     "start:release": "webpack-dev-server --config ./config/server.prod.js",
-    "start:withApi": "cross-env webpackConfig=dev AppSetting=devApi webpack-dev-server --config ./config/webpack.dev.js",
     "clean": "gulp clean",
     "package": "gulp package",
     "linter": "gulp watch:lint"
   },
-  "jest": {
-    "collectCoverage": false,
-    "coverageReporters": [
-      "text"
-    ],
     "coverageDirectory": "./tests",
     "transform": {
       ".(tsx)$": "<rootDir>/tests/config/jest.preprocessor.js",
@@ -57,7 +48,6 @@
     "@types/classnames": "2.2.0",
     "@types/node": "8.0.19",
     "@types/object-hash": "0.5.28",
-    "@types/query-string": "5.0.0",
     "@types/react": "16.0.1",
     "@types/react-dom": "15.5.2",
     "@types/react-highlight-words": "0.6.2",
@@ -70,11 +60,9 @@
     "es6-promise": "4.1.1",
     "highcharts": "5.0.11",
     "intro.js": "2.6.0",
-    "lodash": "4.17.4",
     "mobx": "3.2.2",
     "mobx-react": "4.2.2",
     "moment": "2.18.1",
-    "moment-timezone": "0.5.13",
     "object-hash": "1.1.8",
     "react": "15.6.1",
     "react-datetime": "2.8.11",
