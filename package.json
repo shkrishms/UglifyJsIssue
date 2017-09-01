@@ -11,37 +11,6 @@
     "package": "gulp package",
     "linter": "gulp watch:lint"
   },
-    "coverageDirectory": "./tests",
-    "transform": {
-      ".(tsx)$": "<rootDir>/tests/config/jest.preprocessor.js",
-      ".(ts)$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
-    },
-    "transformIgnorePatterns": [
-      "/node_modules/",
-      "/tmp/",
-      "/dist/"
-    ],
-    "testRegex": "(/tests/.*|\\.(test|spec))\\.(ts|tsx|js)$",
-    "testPathIgnorePatterns": [
-      "/tests/Config/",
-      "/node_modules/",
-      "/tmp/",
-      "/dist/"
-    ],
-    "moduleFileExtensions": [
-      "ts",
-      "tsx",
-      "js"
-    ],
-    "moduleNameMapper": {
-      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
-      "\\.(css|less)$": "identity-obj-proxy"
-    },
-    "snapshotSerializers": [
-      "<rootDir>/node_modules/enzyme-to-json/serializer"
-    ],
-    "setupTestFrameworkScriptFile": "mock-local-storage"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -58,11 +27,11 @@
     "babel-polyfill": "6.23.0",
     "classnames": "2.2.5",
     "es6-promise": "4.1.1",
-    "highcharts": "5.0.11",
     "intro.js": "2.6.0",
     "mobx": "3.2.2",
     "mobx-react": "4.2.2",
     "moment": "2.18.1",
+    "moment-timezone": "0.5.13",
     "object-hash": "1.1.8",
     "react": "15.6.1",
     "react-datetime": "2.8.11",
